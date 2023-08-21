@@ -4,3 +4,5 @@ There are only 62 patients so the outcome could not be as accurate as some want 
 This project is in polish. I will update it to English soon.
 What you have to know:
 Digit 1 in txt file means that the person is healthy, 2 means that the person suffers from hypertension.
+
+Update: Can't provide a data because of the sizes of the files. Each one of them are bigger than 25 MB. Currently working to solve this problem.
